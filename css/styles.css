@@ -199,7 +199,7 @@ section .title::after{
         background: url("https://i.ytimg.com/vi/qiI1ltbjzFg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCPB2ivUhp4ZEkq_bsN8PuVeEPeaw") no-repeat center center/cover;
       }
       /* 57.12% {
-        background: url("/1assets/1images/Screenshot\ 2025-05-02\ 182640.png") no-repeat center center/cover;
+        background: url("https://datafloq.com/wp-content/uploads/2021/12/blog_pictures2FQuality_Assurance_Testing_8xXpzGg.jpg") no-repeat center center/cover;
       } */
       /* 71.4% {
         background: url("IMAGE_URL_6") no-repeat center center/cover;
@@ -336,9 +336,9 @@ section .title::after{
 
 } 
 
-
+ 
 /* services section styling */
-.services, .teams{
+/* .services, .teams{
     color:#fff;
     background: #111;
 }
@@ -521,8 +521,8 @@ section .title::after{
     background-size: 100px;
     background-position: center;
     filter:invert(100%);
-}
-.container .box:hover #second::before 
+} */
+/* .container .box:hover #second::before 
 {
     top: -50px;
     left: 50px;
@@ -677,7 +677,7 @@ section .title::after{
     {
         transform: translateY(-10px);
     }
-}
+}  */
 
 /* skills section styling */
 
